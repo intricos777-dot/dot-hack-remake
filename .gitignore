@@ -1,0 +1,9 @@
+/build/
+build_minios/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+Content/

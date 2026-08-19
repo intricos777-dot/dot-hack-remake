@@ -1,0 +1,1 @@
+add_library(CharacterCreator CharacterCreator.cpp)
