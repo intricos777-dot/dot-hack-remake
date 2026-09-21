@@ -12,6 +12,10 @@ add_library(MineOS
   AvatarDef.cpp
   SaveSystem.cpp
   DiscBoot.cpp
+  npc_db.cpp
+  world_data.cpp
+  combat_system.cpp
+  character.cpp
 )
 target_include_directories(MineOS PUBLIC
   ${CMAKE_CURRENT_SOURCE_DIR}
